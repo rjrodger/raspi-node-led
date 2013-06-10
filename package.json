@@ -1,0 +1,24 @@
+{
+  "name": "raspi-node-led",
+  "version": "0.1.0",
+  "description": "Use Node.js and the Raspberry Pi to control a LED light",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rjrodger/raspi-node-led.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "node",
+    "led"
+  ],
+  "author": "Richard Rodger (http://richardrodger.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.2.6"
+  }
+}
